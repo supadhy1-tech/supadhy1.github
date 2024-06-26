@@ -1,5 +1,4 @@
-![Shivashish Upadhyay's Headshot](https://github.com/supadhy1-tech/supadhy1.github.io/blob/main/headshot.jpg)
-#                                                                      SHIVASHISH UPADHYAY
+![](https://github.com/supadhy1-tech/supadhy1.github.io/blob/main/headshot.jpg)
 # SOFTWARE ENGINEER
 
 ## 662-410-6021 | SAGINAW, USA | 
