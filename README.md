@@ -1,1 +1,3 @@
-# supadhy1.github
+# Software Engineer
+### Education
+Undergrad in Computer Science
