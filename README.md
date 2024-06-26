@@ -1,9 +1,9 @@
 
-# SHIVASHISH UPADHYAY
+                                                            # SHIVASHISH UPADHYAY
 # SOFTWARE ENGINEER
 
 ## 662-410-6021 | SAGINAW, USA | 
-## GitHub:upadhyayashish853@gmail.com                                  ## Email: shivashishupadhyay0@gmail.com      
+## GitHub:upadhyayashish853@gmail.com                                  Email: shivashishupadhyay0@gmail.com      
 
 		
 ## Profile		
