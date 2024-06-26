@@ -8,7 +8,7 @@
 ## Profile		
 Diligent undergraduate student and tutor at SVSU in the Computer Science and Mathematics Department, highlighting adept interpersonal and leadership skills. Proficient in Java, JavaFX, Visual Basic, HTML, and CSS, with a focus on mastering Python and JavaScript.
 
-## Skills & abilities Technical Skills:   	
+## Technical Skills:   	
 Java, JavaFX, Python, Visual Basic.net, HTML, CSS, MS Excel, and Word
 
 ## Soft Skills 
