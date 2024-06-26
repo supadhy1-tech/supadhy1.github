@@ -1,4 +1,3 @@
-![Uploading headshot.jpg…]()
 
 #                                                                      SHIVASHISH UPADHYAY
 # SOFTWARE ENGINEER
