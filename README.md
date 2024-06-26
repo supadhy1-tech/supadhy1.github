@@ -1,70 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shivashish Upadhyay - Portfolio</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <header>
-    <div class="container">
-      <h1>Shivashish Upadhyay</h1>
-      <p>Software Engineer</p>
-    </div>
-  </header>
+![](https://github.com/supadhy1-tech/supadhy1.github.io/blob/main/headshot.jpg)
+# SOFTWARE ENGINEER
 
-  <section id="profile">
-    <div class="container">
-      <h2>Profile</h2>
-      <p>Diligent undergraduate student and tutor at SVSU in the Computer Science and Mathematics Department, highlighting adept interpersonal and leadership skills. Proficient in Java, JavaFX, Visual Basic, HTML, and CSS, with a focus on mastering Python and JavaScript.</p>
+## 662-410-6021 | SAGINAW, USA | 
+## GitHub:upadhyayashish853@gmail.com                                  Email: shivashishupadhyay0@gmail.com      
 
-      <h3>Technical Skills</h3>
-      <ul>
-        <li>Java</li>
-        <li>JavaFX</li>
-        <li>Python</li>
-        <li>Visual Basic.net</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>MS Excel and Word</li>
-      </ul>
+		
+## Profile		
+Diligent undergraduate student and tutor at SVSU in the Computer Science and Mathematics Department, highlighting adept interpersonal and leadership skills. Proficient in Java, JavaFX, Visual Basic, HTML, and CSS, with a focus on mastering Python and JavaScript.
 
-      <h3>Soft Skills</h3>
-      <p>Strong Communication Skill, Leadership Quality, Ability to Work in Team</p>
+## Technical Skills:   	
+Java, JavaFX, Python, Visual Basic.net, HTML, CSS, MS Excel, and Word
 
-      <h3>Education</h3>
-      <p><strong>SAGINAW VALLEY STATE UNIVERSITY – SAGINAW, MICHIGAN</strong></p>
-      <p>Bachelor’s in Computer Science</p>
-      <p>Highly motivated undergraduate student with a CGPA of 3.65, passionate about Artificial Intelligence. Actively mastering Statistics for Machine Learning and Python programming to contribute to innovative AI projects.</p>
-    </div>
-  </section>
+## Soft Skills 
+Strong Communication Skill, Leadership Quality, Ability to Work in Team
 
-  <section id="projects">
-    <div class="container">
-      <h2>Projects</h2>
-      
-      <div class="project">
-        <h3>Project 1: End-of-report summaries for Grocery stores</h3>
-        <p>Developed an application to calculate Gross Sales and generate end-of-report summaries based on scanned lottery tickets using scanner or simple AI converter for input for Grocery stores.</p>
-      </div>
-      
-      <div class="project">
-        <h3>Project 2: Menu application for food selection</h3>
-        <p>Developed a menu application for customized food selection and service request forms using Java FX for efficient allocation based on urgency, distances, and time complexities.</p>
-      </div>
+## Education		
+### SAGINAW VALLEY STATE UNIVERSITY – SAGINAW, MICHIGAN
+### Bachelor’s in computer science
+Highly motivated undergraduate student with a CGPA of 3.65, passionate about Artificial Intelligence. Actively mastering Statistics for Machine Learning and Python programming to contribute to innovative AI projects.
 
-      <div class="project">
-        <h3>Project 3: Calculator and games</h3>
-        <p>Built Calculator and games like Zombie Simulator.</p>
-      </div>
+## Activities (Projects) and Workshops	
+ 1.	Conducted leading AI workshops for college student
+ 2. Develop an application to calculate Gross Sales and generate end-of-report summaries based on scanned lottery tickets using scanner or simple AI converter for input for Grocery 
+      stores.
+ 3.	Developed a menu application for customized food selection and service request forms using Java FX for efficient allocation based on urgency, distances, and time complexities.
+ 4.   Build Calculator and games like Zombie Simulator
+ 5.	Build portfolio website using CSS and HTML.
 
-      <div class="project">
-        <h3>Project 4: Website for Song Lyrics</h3>
-        <p>Built a website for Song Lyrics using HTML.</p>
-      </div>
-    </div>
-  </section>
+## Awards and    Honors	
+1.	Math and Science Craft Competition - First Prize (Grade10)
+2.	Best Tutor of the month CS
+3.	SVSU Red and White scholarship
+4.	SVSU International Presidential Scholarship
 
-</body>
-</html>
+## Employment		Tutor/ CS Lab Assistant
+Work as a Mentor for Students with Java I and Java II, VB.net, JavaFX, programming language
+
+                                       
+## Objective 	
+Seeking AI opportunity to leverage passion, advance skills in machine learning (Java, Python), and apply theoretical knowledge to real-world projects. Eager to collaborate with professionals and develop AI research.
+
+
+
+
