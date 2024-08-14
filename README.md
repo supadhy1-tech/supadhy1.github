@@ -9,7 +9,7 @@
 Diligent undergraduate student and tutor at SVSU in the Computer Science and Mathematics Department, highlighting adept interpersonal and leadership skills. Proficient in Java, JavaFX, Visual Basic, HTML, and CSS, with a focus on mastering Python and JavaScript.
 
 ## Technical Skills:   	
-Java, JavaFX, Python, Visual Basic.net, HTML, CSS, MS Excel, and Word
+Java, JavaFX, Python, mySQL, Rest APIs, JavaScript, Web Application, Visual Basic.net, HTML, CSS, MS Excel, Word.
 
 ## Soft Skills 
 Strong Communication Skill, Leadership Quality, Ability to Work in Team
@@ -24,7 +24,7 @@ Highly motivated undergraduate student with a CGPA of 3.65, passionate about Art
  2. Develop an application to calculate Gross Sales and generate end-of-report summaries based on scanned lottery tickets using scanner or simple AI converter for input for Grocery 
       stores.
  3.	Developed a menu application for customized food selection and service request forms using Java FX for efficient allocation based on urgency, distances, and time complexities.
- 4.   Build Calculator and games like Zombie Simulator
+ 4.   Build games like Zombie Simulator, TicTacToe
  5.	Build portfolio website using CSS and HTML.
 
 ## Awards and    Honors	
