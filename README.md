@@ -17,7 +17,7 @@ Strong Communication Skill, Leadership Quality, Ability to Work in Team
 ## Education		
 ### SAGINAW VALLEY STATE UNIVERSITY – SAGINAW, MICHIGAN
 ### Bachelor’s in computer science
-Highly motivated undergraduate student with a CGPA of 3.65, passionate about Artificial Intelligence. Actively mastering Statistics for Machine Learning and Python programming to contribute to innovative AI projects.
+Highly motivated undergraduate student with  passion about Artificial Intelligence. Actively mastering Statistics for Machine Learning and Python programming to contribute to innovative AI projects.
 
 ## Activities (Projects) and Workshops	
  1.	Conducted leading AI workshops for college student
@@ -28,7 +28,6 @@ Highly motivated undergraduate student with a CGPA of 3.65, passionate about Art
  5.	Build portfolio website using CSS and HTML.
 
 ## Awards and    Honors	
-1.	Math and Science Craft Competition - First Prize (Grade10)
 2.	Best Tutor of the month CS
 3.	SVSU Red and White scholarship
 4.	SVSU International Presidential Scholarship
