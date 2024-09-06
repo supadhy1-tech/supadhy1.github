@@ -15,9 +15,9 @@
 •	Bachelor of Computer Science
 
 ## Technical Skills 
-•	Programming Language:  Java, Python, JavaScript, Visual Basic.net, HTML, CSS, SQL.
-•	Platforms and Framework:  .net, PyCharm, IntelliJ, SQL Workbench 8.0 CE.
-•	Skills:  Data Structures and Algorithms, Version Control, Strong Communication
+• Programming Language:  Java, Python, JavaScript, Visual Basic.net, HTML, CSS, SQL.
+• Platforms and Framework:  .net, PyCharm, IntelliJ, SQL Workbench 8.0 CE.
+• Skills:  Data Structures and Algorithms, Version Control, Strong Communication
 
 	
 ## PROJECTS
