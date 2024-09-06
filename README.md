@@ -6,7 +6,7 @@
 
 		
 ## Work Experience	
-Saginaw Valley State University (SVSU), LAB Assistant/CS Tutor, Saginaw, MI
+### Saginaw Valley State University (SVSU), LAB Assistant/CS Tutor, Saginaw, MI
 •	Tutored college students with major programming courses like Java, Visual Basic.net.
 	
 
@@ -21,13 +21,13 @@ Saginaw Valley State University (SVSU), LAB Assistant/CS Tutor, Saginaw, MI
 
 	
 ## PROJECTS
-•	Application to generate end-of -report Summaries
+###	Application to generate end-of -report Summaries
 Develop an application for Grocery stores to generate end-of-report summaries based on scanned lottery tickets using bar-code scanner. The tickets are stored in database using SQL and are used to generate end of report summaries with some user entered values. 
-•	Simulation Games  
+###	Simulation Games  
 Developed simulation games like Zombie Simulation using JavaFX for User interface and Java for backend.
-•	Data Management
+###	Data Management
 Designed and implemented database to manage student records using SQL queries.
-•	Developed a Portfolio Webpage with Git Version Control
+###	Developed a Portfolio Webpage with Git Version Control
 Built a dynamic portfolio webpage showcasing personal projects and skills using git commands.
 
 
