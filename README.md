@@ -1,4 +1,4 @@
-![](https://github.com/supadhy1-tech/supadhy1.github.io/blob/main/headshot.jpg=250*250?raw=true)
+![](https://github.com/supadhy1-tech/supadhy1.github.io/blob/main/headshot.jpg?raw=true)
 #   WORK EXPERIENCE	
 ### Saginaw Valley State University (SVSU), LAB Assistant/CS Tutor, Saginaw, MI
 •	Tutored college students with major programming courses like Java, Visual Basic.net.
