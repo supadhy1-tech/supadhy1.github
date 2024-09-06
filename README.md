@@ -1,6 +1,7 @@
+
 #   WORK EXPERIENCE	
 ### Saginaw Valley State University (SVSU), LAB Assistant/CS Tutor, Saginaw, MI
-•	Tutored college students with major programming courses like Java, Visual Basic.net.
+Tutored college students with major programming courses like Java, Visual Basic.net.
 	
 
 #   EDUCATION 	
