@@ -1,8 +1,4 @@
 ![](https://github.com/supadhy1-tech/supadhy1.github.io/blob/main/headshot.jpg?raw=true)
-## 662-410-6021 | SAGINAW, USA | 
-## GitHub:upadhyayashish853@gmail.com                  Email: shivashishupadhyay0@gmail.com      
-
-		
 #   WORK EXPERIENCE	
 ### Saginaw Valley State University (SVSU), LAB Assistant/CS Tutor, Saginaw, MI
 •	Tutored college students with major programming courses like Java, Visual Basic.net.
