@@ -5,39 +5,39 @@
 ## GitHub:upadhyayashish853@gmail.com                                  Email: shivashishupadhyay0@gmail.com      
 
 		
-## Profile		
-Diligent undergraduate student and tutor at SVSU in the Computer Science and Mathematics Department, highlighting adept interpersonal and leadership skills. Proficient in Java, JavaFX, Visual Basic, HTML, and CSS, with a focus on mastering Python and JavaScript.
+## Work Experience	
+Saginaw Valley State University (SVSU), LAB Assistant/CS Tutor, Saginaw, MI
+•	Tutored college students with major programming courses like Java, Visual Basic.net.
+	
 
-## Technical Skills:   	
-Java, JavaFX, Python, mySQL, Rest APIs, JavaScript, Web Application, Visual Basic.net, HTML, CSS, MS Excel, Word.
-
-## Soft Skills 
-Strong Communication Skill, Leadership Quality, Ability to Work in Team
-
-## Education		
+## Education   	
 ### SAGINAW VALLEY STATE UNIVERSITY – SAGINAW, MICHIGAN
-### Bachelor’s in computer science
-Highly motivated undergraduate student with  passion about Artificial Intelligence. Actively mastering Statistics for Machine Learning and Python programming to contribute to innovative AI projects.
+•	Bachelor of Computer Science
 
-## Activities (Projects) and Workshops	
- 1.	Conducted leading AI workshops for college student
- 2. Develop an application to calculate Gross Sales and generate end-of-report summaries based on scanned lottery tickets using scanner or simple AI converter for input for Grocery 
-      stores.
- 3.	Developed a menu application for customized food selection and service request forms using Java FX for efficient allocation based on urgency, distances, and time complexities.
- 4.   Build games like Zombie Simulator, TicTacToe
- 5.	Build portfolio website using CSS and HTML.
+## Technical Skills 
+•	Programming Language:  Java, Python, JavaScript, Visual Basic.net, HTML, CSS, SQL.
+•	Platforms and Framework:  .net, PyCharm, IntelliJ, SQL Workbench 8.0 CE.
+•	Skills:  Data Structures and Algorithms, Version Control, Strong Communication
+
+	
+## PROJECTS
+•	Application to generate end-of -report Summaries
+Develop an application for Grocery stores to generate end-of-report summaries based on scanned lottery tickets using bar-code scanner. The tickets are stored in database using SQL and are used to generate end of report summaries with some user entered values. 
+•	Simulation Games  
+Developed simulation games like Zombie Simulation using JavaFX for User interface and Java for backend.
+•	Data Management
+Designed and implemented database to manage student records using SQL queries.
+•	Developed a Portfolio Webpage with Git Version Control
+Built a dynamic portfolio webpage showcasing personal projects and skills using git commands.
+
 
 ## Awards and    Honors	
 2.	Best Tutor of the month CS
 3.	SVSU Red and White scholarship
 4.	SVSU International Presidential Scholarship
-
-## Employment		Tutor/ CS Lab Assistant
-Work as a Mentor for Students with Java I and Java II, VB.net, JavaFX, programming language
-
                                        
 ## Objective 	
-Seeking AI opportunity to leverage passion, advance skills in machine learning (Java, Python), and apply theoretical knowledge to real-world projects. Eager to collaborate with professionals and develop AI research.
+Seeking an internship/co-op opportunity to leverage passion, advance skills in Full Stack Developing and machine learning and apply theoretical knowledge to real-world projects.h.
 
 
 
