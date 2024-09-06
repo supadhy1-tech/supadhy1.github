@@ -1,6 +1,4 @@
 ![](https://github.com/supadhy1-tech/supadhy1.github.io/blob/main/headshot.jpg)
-# SOFTWARE ENGINEER
-
 ## 662-410-6021 | SAGINAW, USA | 
 ## GitHub:upadhyayashish853@gmail.com                                  Email: shivashishupadhyay0@gmail.com      
 
