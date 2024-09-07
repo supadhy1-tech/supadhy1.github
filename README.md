@@ -1,39 +1,35 @@
-
-#   WORK EXPERIENCE	
+# WORK EXPERIENCE
 ### Saginaw Valley State University (SVSU), LAB Assistant/CS Tutor, Saginaw, MI
-Tutored college students with major programming courses like Java, Visual Basic.net.
-	
+Tutored college students in major programming courses like Java and Visual Basic.net.
 
-#   EDUCATION 	
+# EDUCATION
 ### SAGINAW VALLEY STATE UNIVERSITY – SAGINAW, MICHIGAN
-•	Bachelor of Computer Science
+- **Bachelor of Computer Science**
+- **Relevant Coursework**: Data structure and Algorithms, Client and Server side web development, Statistics.
 
-#   TECHNICAL SKILLS
-• Programming Language:  Java, Python, JavaScript, Visual Basic.net, HTML, CSS, SQL.
-• Platforms and Framework:  .net, PyCharm, IntelliJ, SQL Workbench 8.0 CE.
-• Skills:  Data Structures and Algorithms, Version Control, Strong Communication
+# TECHNICAL SKILLS
+- **Programming Languages**: Java, Python, JavaScript, Visual Basic.net, HTML, CSS, SQL
+- **Platforms and Frameworks**: .NET, PyCharm, IntelliJ, SQL Workbench 8.0 CE
+- **Skills**: Data Structures and Algorithms, Version Control, Strong Communication
 
-	
-#   PROJECTS
+# PROJECTS
 
-###	Application to generate end-of -report Summaries
-Develop an application for Grocery stores to generate end-of-report summaries based on scanned lottery tickets using bar-code scanner. The tickets are stored in database using SQL and are used to generate end of report summaries with some user entered values. 
-###	Simulation Games  
-Developed simulation games like Zombie Simulation using JavaFX for User interface and Java for backend.
-###	Data Management
-Designed and implemented database to manage student records using SQL queries.
-###	Developed a Portfolio Webpage with Git Version Control
-Built a dynamic portfolio webpage showcasing personal projects and skills using git commands.
+### Application to Generate End-of-Report Summaries
+Developed an application for grocery stores to generate end-of-report summaries based on scanned lottery tickets using a bar-code scanner. The tickets are stored in a SQL database and used to generate reports with user-entered values.
 
+### Simulation Games
+Developed simulation games like **Zombie Simulation** using JavaFX for the user interface and Java for the backend.
 
-#    AWARDS AND HONORS
-2.	Best Tutor of the month CS
-3.	SVSU Red and White scholarship
-4.	SVSU International Presidential Scholarship
-                                       
-#    OBJECTIVE	
-Seeking an internship/co-op opportunity to leverage passion, advance skills in Full Stack Developing and machine learning and apply theoretical knowledge to real-world projects.h.
+### Data Management
+Designed and implemented a database to manage student records using SQL queries.
 
+### Developed a Portfolio Webpage with Git Version Control
+Built a dynamic portfolio webpage showcasing personal projects and skills using Git commands.
 
+# AWARDS AND HONORS
+2. Best Tutor of the Month (CS)
+3. SVSU Red and White Scholarship
+4. SVSU International Presidential Scholarship
 
-
+# OBJECTIVE
+Seeking an internship/co-op opportunity to leverage passion, advance skills in full-stack development and machine learning, and apply theoretical knowledge to real-world projects.
