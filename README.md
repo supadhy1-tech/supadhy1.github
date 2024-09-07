@@ -25,11 +25,13 @@ Developed an application for grocery stores to generate end-of-report summaries 
 ### Simulation Games
 Developed simulation games like **Zombie Simulation** using JavaFX for the user interface and Java for the backend.
 
+### Developed a Portfolio Webpage with Git Version Control
+Built a dynamic portfolio webpage showcasing personal projects and skills using Git commands.
+
 ### Data Management
 Designed and implemented a database to manage student records using SQL queries.
 
-### Developed a Portfolio Webpage with Git Version Control
-Built a dynamic portfolio webpage showcasing personal projects and skills using Git commands.
+
 
 # AWARDS AND HONORS
 2. Best Tutor of the Month (CS)
