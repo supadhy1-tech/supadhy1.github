@@ -1,3 +1,5 @@
+![Header Image](https://github.com/supadhy1-tech/supadhy1.github.io/blob/main/headshot.jpg?raw=true)
+
 # OBJECTIVE
 Seeking an internship/co-op opportunity to leverage passion, advance skills in full-stack development and machine learning, and apply theoretical knowledge to real-world projects.
 
