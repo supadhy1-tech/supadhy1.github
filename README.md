@@ -1,3 +1,6 @@
+# OBJECTIVE
+Seeking an internship/co-op opportunity to leverage passion, advance skills in full-stack development and machine learning, and apply theoretical knowledge to real-world projects.
+
 # WORK EXPERIENCE
 ### Saginaw Valley State University (SVSU), LAB Assistant/CS Tutor, Saginaw, MI
 Tutored college students in major programming courses like Java and Visual Basic.net.
@@ -5,7 +8,7 @@ Tutored college students in major programming courses like Java and Visual Basic
 # EDUCATION
 ### SAGINAW VALLEY STATE UNIVERSITY – SAGINAW, MICHIGAN
 - **Bachelor of Computer Science**
-- **Relevant Coursework**: Data structure and Algorithms, Client and Server side web development, Statistics.
+    - Relevant Coursework: Data structure and Algorithms, Client and Server side web development, Statistics.
 
 # TECHNICAL SKILLS
 - **Programming Languages**: Java, Python, JavaScript, Visual Basic.net, HTML, CSS, SQL
@@ -31,5 +34,4 @@ Built a dynamic portfolio webpage showcasing personal projects and skills using 
 3. SVSU Red and White Scholarship
 4. SVSU International Presidential Scholarship
 
-# OBJECTIVE
-Seeking an internship/co-op opportunity to leverage passion, advance skills in full-stack development and machine learning, and apply theoretical knowledge to real-world projects.
+
